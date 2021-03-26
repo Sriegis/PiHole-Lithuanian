@@ -1,4 +1,4 @@
 # blacklist
 
-smartadserver.strive.lt
-rtb-csync.smartadserver.com
+0.0.0.0 smartadserver.strive.lt
+0.0.0.0 rtb-csync.smartadserver.com
