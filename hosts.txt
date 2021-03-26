@@ -1,0 +1,4 @@
+# blacklist
+
+0.0.0.0 https://smartadserver.strive.lt
+0.0.0.0 https://rtb-csync.smartadserver.com
